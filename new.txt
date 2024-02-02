@@ -1,1 +1,1 @@
-trying the push method
+Now working with merge conflicts
